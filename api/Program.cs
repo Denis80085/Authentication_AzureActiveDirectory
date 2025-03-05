@@ -1,4 +1,7 @@
+using System.Diagnostics.CodeAnalysis;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.IdentityModel.Tokens;
 using Scalar.AspNetCore;
 
 
@@ -8,12 +11,11 @@ var builder = WebApplication.CreateBuilder(args);
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 builder.Services.AddControllers();
-
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-    .AddJwtBearer(option =>{
-        option.Audience = builder.Configuration["ADD:ResourceId"];
-        option.Authority = $"{builder.Configuration["ADD:Instance"]}{builder.Configuration["ADD:TenantId"]}";
-        option.RequireHttpsMetadata = false;
+    .AddJwtBearer(opt =>{
+        opt.TokenValidationParameters.ValidateAudience = true;
+        opt.Audience = builder.Configuration["AAD:ResourceId"];
+        opt.Authority = $"{builder.Configuration["AAD:Instance"]}{builder.Configuration["AAD:TenantId"]}";
     });
 
 var app = builder.Build();
@@ -35,6 +37,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthentication();
+app.UseAuthorization();
 
 app.MapControllers();
 

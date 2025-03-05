@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authentication.BearerToken;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,7 +10,7 @@ namespace api.controllers
 {
     [ApiController]
     [Route("api/WeatherForecast")]
-    public class WeatherForecastController : ControllerBase
+    public class WeatherForecastController : Controller
     {
         public string[] summaries = new[]
         {

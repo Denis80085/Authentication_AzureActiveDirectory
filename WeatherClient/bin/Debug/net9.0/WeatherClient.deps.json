@@ -11,6 +11,7 @@
           "Microsoft.Extensions.Configuration": "10.0.0-preview.1.25080.5",
           "Microsoft.Extensions.Configuration.Binder": "10.0.0-preview.1.25080.5",
           "Microsoft.Extensions.Configuration.Json": "10.0.0-preview.1.25080.5",
+          "Microsoft.Extensions.Configuration.UserSecrets": "9.0.2",
           "Microsoft.Identity.Client": "4.69.1"
         },
         "runtime": {
@@ -78,6 +79,20 @@
           "lib/net9.0/Microsoft.Extensions.Configuration.Json.dll": {
             "assemblyVersion": "10.0.0.0",
             "fileVersion": "10.0.25.8005"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.UserSecrets/9.0.2": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "10.0.0-preview.1.25080.5",
+          "Microsoft.Extensions.Configuration.Json": "10.0.0-preview.1.25080.5",
+          "Microsoft.Extensions.FileProviders.Abstractions": "10.0.0-preview.1.25080.5",
+          "Microsoft.Extensions.FileProviders.Physical": "10.0.0-preview.1.25080.5"
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.Configuration.UserSecrets.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
           }
         }
       },
@@ -231,6 +246,13 @@
       "sha512": "sha512-Qm7CqQtN+7OAb3S21ciqFLRmVRChAM6HjSYKsDOoFjH8kPncLEIb8gWuWONvbG2XOvoBXNH8IVwYnriUdhtGmQ==",
       "path": "microsoft.extensions.configuration.json/10.0.0-preview.1.25080.5",
       "hashPath": "microsoft.extensions.configuration.json.10.0.0-preview.1.25080.5.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.UserSecrets/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vUBGgnHmmpjtWzmq2z9idJpnOrrStgYqUlqLn1MuSyFkAedeyR8A0I57BdThP060eBEYfhKEBjXaAB/jKmCtiw==",
+      "path": "microsoft.extensions.configuration.usersecrets/9.0.2",
+      "hashPath": "microsoft.extensions.configuration.usersecrets.9.0.2.nupkg.sha512"
     },
     "Microsoft.Extensions.FileProviders.Abstractions/10.0.0-preview.1.25080.5": {
       "type": "package",

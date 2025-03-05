@@ -62,6 +62,10 @@
               "target": "Package",
               "version": "[10.0.0-preview.1.25080.5, )"
             },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
             "Microsoft.Identity.Client": {
               "target": "Package",
               "version": "[4.69.1, )"

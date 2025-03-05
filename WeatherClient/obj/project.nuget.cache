@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZR/dA2h1stM=",
+  "dgSpecHash": "fR/Qw7Af85w=",
   "success": true,
   "projectFilePath": "D:\\ADD_Example\\WeatherClient\\WeatherClient.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.0-preview.1.25080.5\\microsoft.extensions.configuration.binder.10.0.0-preview.1.25080.5.nupkg.sha512",
     "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.0-preview.1.25080.5\\microsoft.extensions.configuration.fileextensions.10.0.0-preview.1.25080.5.nupkg.sha512",
     "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.0-preview.1.25080.5\\microsoft.extensions.configuration.json.10.0.0-preview.1.25080.5.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\9.0.2\\microsoft.extensions.configuration.usersecrets.9.0.2.nupkg.sha512",
     "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.0-preview.1.25080.5\\microsoft.extensions.fileproviders.abstractions.10.0.0-preview.1.25080.5.nupkg.sha512",
     "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.0-preview.1.25080.5\\microsoft.extensions.fileproviders.physical.10.0.0-preview.1.25080.5.nupkg.sha512",
     "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.0-preview.1.25080.5\\microsoft.extensions.filesystemglobbing.10.0.0-preview.1.25080.5.nupkg.sha512",

@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ADD_Example\\WeatherClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06C47B0F-7DD7-9A1D-93BC-65100D915E07}|WeatherClient.csproj|d:\\add_example\\weatherclient\\authenticationexecuter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C47B0F-7DD7-9A1D-93BC-65100D915E07}|WeatherClient.csproj|solutionrelative:authenticationexecuter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C47B0F-7DD7-9A1D-93BC-65100D915E07}|WeatherClient.csproj|d:\\add_example\\weatherclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C47B0F-7DD7-9A1D-93BC-65100D915E07}|WeatherClient.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\denis\\AppData\\Roaming\\Microsoft\\UserSecrets\\9a567ac2-9b1b-4ade-9513-959ac5771eae\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ADD_Example\\WeatherClient\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ADD_Example\\WeatherClient\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:36:14.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\denis\\AppData\\Roaming\\Microsoft\\UserSecrets\\9a567ac2-9b1b-4ade-9513-959ac5771eae\\secrets.json",
+              "ToolTip": "C:\\Users\\denis\\AppData\\Roaming\\Microsoft\\UserSecrets\\9a567ac2-9b1b-4ade-9513-959ac5771eae\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T19:21:58.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationExecuter.cs",
+              "DocumentMoniker": "D:\\ADD_Example\\WeatherClient\\AuthenticationExecuter.cs",
+              "RelativeDocumentMoniker": "AuthenticationExecuter.cs",
+              "ToolTip": "D:\\ADD_Example\\WeatherClient\\AuthenticationExecuter.cs",
+              "RelativeToolTip": "AuthenticationExecuter.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAASwCEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:00:54.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
