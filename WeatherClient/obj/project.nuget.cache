@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZR/dA2h1stM=",
+  "success": true,
+  "projectFilePath": "D:\\ADD_Example\\WeatherClient\\WeatherClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.0-preview.1.25080.5\\microsoft.extensions.configuration.10.0.0-preview.1.25080.5.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.0-preview.1.25080.5\\microsoft.extensions.configuration.abstractions.10.0.0-preview.1.25080.5.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.0-preview.1.25080.5\\microsoft.extensions.configuration.binder.10.0.0-preview.1.25080.5.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.0-preview.1.25080.5\\microsoft.extensions.configuration.fileextensions.10.0.0-preview.1.25080.5.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.0-preview.1.25080.5\\microsoft.extensions.configuration.json.10.0.0-preview.1.25080.5.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.0-preview.1.25080.5\\microsoft.extensions.fileproviders.abstractions.10.0.0-preview.1.25080.5.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.0-preview.1.25080.5\\microsoft.extensions.fileproviders.physical.10.0.0-preview.1.25080.5.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.0-preview.1.25080.5\\microsoft.extensions.filesystemglobbing.10.0.0-preview.1.25080.5.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0-preview.1.25080.5\\microsoft.extensions.primitives.10.0.0-preview.1.25080.5.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.identity.client\\4.69.1\\microsoft.identity.client.4.69.1.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.35.0\\microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\system.io.pipelines\\10.0.0-preview.1.25080.5\\system.io.pipelines.10.0.0-preview.1.25080.5.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\system.text.encodings.web\\10.0.0-preview.1.25080.5\\system.text.encodings.web.10.0.0-preview.1.25080.5.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\system.text.json\\10.0.0-preview.1.25080.5\\system.text.json.10.0.0-preview.1.25080.5.nupkg.sha512"
+  ],
+  "logs": []
+}
